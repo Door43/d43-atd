@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atd:home|Door43 (atd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atd|d43-atd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atd/archive/master.zip|d43-atd.zip]]
+
+**Recent Changes**
+{{changes>ns = atd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atd|Ethnologue data]]
+
